@@ -13,4 +13,4 @@ Izvorne datoteke so tukaj iz zgodovinskih razlogov in bodo ostale nespremenjene,
 
 Če pa želite pripomoči k strukturi repozitorija in želite spreminjati dokumentacijske datoteke (npr. ta datoteka), pa, prosimo, pošljite predloge kot `pull` zahteve, mi pa jih bomo pregledali in mogoče odobrili.
 
-Ta projekt sovpada z [Microsoftovo Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).  Za več informacij si poglejte [pogosta vprašanja o Code of Conduct](https://opensource.microsoft.com/codeofconduct/faq/) (v angleščini) ali pa nas vprašate prek elektronske pošte na naslov [opencode@microsoft.com](mailto:opencode@microsoft.com), v kolikor imate dodatne vprašanja ali pripombe.
+Ta projekt sovpada z [Microsoftovo Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).  Za več informacij si poglejte [pogosta vprašanja o Code of Conduct](https://opensource.microsoft.com/codeofconduct/faq/) (v angleščini) ali pa nas vprašajte prek elektronske pošte na naslov [opencode@microsoft.com](mailto:opencode@microsoft.com), v kolikor imate dodatne vprašanja ali pripombe.
